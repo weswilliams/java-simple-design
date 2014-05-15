@@ -10,7 +10,10 @@ import org.junit.Test;
  * 
  * How many places have we duplicated topology knowledge (x and y)?
  * 
- * Where should this knowledge go? 
+ * Where should this knowledge go?
+ * 
+ *  Refactor the code to introduce types that will represent topology.
+ *  (remember take small steps and keep the system working)
  * 
  */
 public class WorldTest {

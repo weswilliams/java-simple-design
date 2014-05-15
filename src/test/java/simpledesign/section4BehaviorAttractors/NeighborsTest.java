@@ -13,7 +13,9 @@ import org.junit.Test;
  * 
  * Should it go in the Cell class?
  * 
- * What idea are neighbors most closely related too? 
+ * What idea are neighbors most closely related too?
+ * 
+ * Create the test(s) for finding live neighbors and implement the functionality
  * 
  */
 
@@ -21,7 +23,7 @@ public class NeighborsTest {
 
 	@Test
 	@Ignore
-	public void shouldBeAbleToFindNighboreForWho() {
+	public void shouldBeAbleToFindLiveNighboreForWho() {
 		fail("Not yet implemented");
 	}
 
