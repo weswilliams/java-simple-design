@@ -8,6 +8,6 @@ import org.junit.Test;
 public class CellTest {
 	@Test
 	public void deadCellShouldStayDeadWithNoLiveNeighbors() {
-		assertTrue("should be working", true);
+		assertTrue("environment is working", true);
 	}
 }
