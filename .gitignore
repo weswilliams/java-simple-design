@@ -20,7 +20,7 @@
 hs_err_pid*\
 \
 # maven ignores\
-target/\
+target/
 pom.xml.tag\
 pom.xml.releaseBackup\
 pom.xml.versionsBackup\
@@ -31,6 +31,9 @@ release.properties\
 *.pydevproject\
 .metadata\
 .gradle\
+.classpath
+.project
+.settings
 bin/\
 tmp/\
 *.tmp\
